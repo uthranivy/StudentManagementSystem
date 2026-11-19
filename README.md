@@ -16,7 +16,7 @@
 
 2. View All Students
 
-*Display all student records stored in the student.txt file.
+* Display all student records stored in the student.txt file.
 
 * Read student details using BufferedReader.
 
