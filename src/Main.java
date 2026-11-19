@@ -27,18 +27,6 @@ public class Main {
 
 
 
-
-//        List<Student> students = new ArrayList<>();
-//        students.add(new Student("Anu",  "CSE"));
-//        students.add(new Student("Priya", "MECH"));
-//
-//        for (Student student : students) {
-//            System.out.println("Name - " + student.getName() + " Department - " + student.getDepartment());
-//        }
-//
-//        students.get(1).setName("Priya Kumar");
-//        for (Student student : students) {
-//            System.out.println("Name - " + student.getName() + " Department - " + student.getDepartment());
-//        }
+ 
     }
 }
