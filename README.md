@@ -20,13 +20,13 @@
 
 * Read student details using BufferedReader.
 
-5. Search Student
+3. Delete Student
 
-* Search for a student using Student ID.
+* Delete a student record using Student ID.
 
-* Display the matching student's details.
+* Keep the remaining student records unchanged.
 
-* Show an error message if the Student ID is not found.
+* Display an error message if the Student ID is not found.
 
 4. Replace / Update Student
 
@@ -48,13 +48,13 @@
 
 * Throw a custom exception if the Student ID does not exist.
 
-3. Delete Student
+5. Search Student
 
-* Delete a student record using Student ID.
+* Search for a student using Student ID.
 
-* Keep the remaining student records unchanged.
+* Display the matching student's details.
 
-* Display an error message if the Student ID is not found.
+* Show an error message if the Student ID is not found.  
 
 -> Technologies Used
 
