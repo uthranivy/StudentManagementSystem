@@ -1,5 +1,4 @@
-103,Saranya,21,B.E EEE,88.2
 104,Harish,20,B.E CSE,91.3
 105,Siva,21,B.Tech,81.3
-107,Dinesh,20,B.E AeroSpace,78.2
+107,Dinesh,20,B.E AeroSpace,82.0
 108,Harini,19,B.Tech,89.0
